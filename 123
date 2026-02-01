@@ -1,0 +1,32 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+  margin-top: 50px;
+}
+
+p {
+  font-size: 24px;
+  color: darkred;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to TechElites</h1>
+    <p>Innovative Computer Education</p>
+
+    <!-- Image -->
+    <img src="myphoto.jpg" alt="My Photo">
+
+    <p>Thank you for visiting!</p>
+</body>
+</html>
